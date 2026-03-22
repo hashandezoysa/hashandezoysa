@@ -19,28 +19,17 @@ I help businesses grow online through SEO, website optimisation, paid advertisin
 
 ---
 
-## 🛠️ Skills & Expertise
+## 🛠️ Skills & Tools
 
-**Digital Marketing**
-- SEO (Technical, On-page, E-commerce SEO)
-- Google Ads & Paid Advertising
-- Conversion Optimisation
-- Marketing Strategy
-- Performance Analysis
-
-**Web & E-commerce**
-- WordPress Development
-- Shopify
-- Website UX & UI Optimisation
-- Landing Page Design
-- Website Speed Optimisation
-
-**AI & Automation**
-- AI Marketing Tools
-- ChatGPT & AI Integrations
-- Marketing Automation
-- Agentic Storefronts
-- Data & Performance Dashboards
+![SEO](https://img.shields.io/badge/SEO-0A66C2?style=for-the-badge)
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-FF6B00?style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge)
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F9AB00?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/AI%20Marketing-412991?style=for-the-badge)
 
 ---
 
@@ -89,3 +78,5 @@ To build innovative AI-driven digital marketing and e-commerce solutions that he
 ---
 
 ⭐ Feel free to explore my repositories and connect with me.
+
+
